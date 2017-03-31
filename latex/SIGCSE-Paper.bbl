@@ -1,0 +1,59 @@
+\begin{thebibliography}{10}
+
+\bibitem{Berland_Martin_Benton_Smith_Davis_2013}
+M.~Berland, T.~Martin, T.~Benton, C.~P. Smith, and D.~Davis.
+\newblock Using learning analytics to understand the learning pathways of
+  novice programmers.
+\newblock {\em Journal of the Learning Sciences}, 22(4):564--599, Oct 2013.
+
+\bibitem{htdp}
+M.~Felleisen, R.~B. Findler, M.~Flatt, and S.~Krishnamurthi.
+\newblock {\em How to Design Programs}.
+\newblock MIT Press, 2001.
+
+\bibitem{Pirolli_Anderson_1985}
+P.~L. Pirolli and J.~R. Anderson.
+\newblock The role of learning from examples in the acquisition of recursive
+  programming skills.
+\newblock {\em Canadian Journal of Psychology/Revue canadienne de psychologie},
+  39(2):240--272, 1985.
+
+\bibitem{Pirolli_Anderson_Farrell_1984}
+P.~L. Pirolli, J.~R. Anderson, and R.~G. Farrell.
+\newblock {\em Learning to program recursion}, pages 277--280.
+\newblock 1984.
+
+\bibitem{Rist_1989}
+R.~S. Rist.
+\newblock Schema creation in programming.
+\newblock {\em Cognitive Science}, pages 389--414, 1989.
+
+\bibitem{Rist_1991}
+R.~S. Rist.
+\newblock Knowledge creation and retrieval in program design: A comparison of
+  novice and intermediate student programmers.
+\newblock {\em Hum.-Comput. Interact.}, 6(1):1--46, Mar 1991.
+
+\bibitem{Shneiderman_1976}
+B.~Shneiderman.
+\newblock Exploratory experiments in programmer behavior.
+\newblock {\em International Journal of Computer and Information Sciences},
+  5(2):123--143, June 1976.
+
+\bibitem{Soloway_Ehrlich_1984}
+E.~Soloway and K.~Ehrlich.
+\newblock Empirical studies of programming knowledge.
+\newblock {\em IEEE Transactions on Software Engineering}, SE-10(5):595--609,
+  September 1984.
+
+\bibitem{Spohrer_Soloway_1986}
+J.~C. Spohrer and E.~Soloway.
+\newblock Novice mistakes: Are the folk wisdoms correct?
+\newblock {\em Commun. ACM}, 29(7):624--632, July 1986.
+
+\bibitem{Spohrer_Soloway_1989}
+J.~C. Spohrer and E.~Soloway.
+\newblock {\em Simulating Student Programmers}, pages 543--549.
+\newblock IJCAI '89. Morgan Kaufmann Publishers Inc., 1989.
+
+\end{thebibliography}
